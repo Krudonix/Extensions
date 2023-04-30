@@ -4,5 +4,6 @@
 		<Version>0.0.1</Version>
 		<Nullable>enable</Nullable>
 		<PackageProjectUrl>https://github.com/Krudonix/Extensions</PackageProjectUrl>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	</PropertyGroup>
 </Project>
